@@ -1,2 +1,3 @@
 transformers
 PyPDF2
+TensorFlow==2.0
