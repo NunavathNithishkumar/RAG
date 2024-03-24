@@ -1,3 +1,4 @@
 transformers
 PyPDF2
 TensorFlow
+tf-keras
